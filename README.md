@@ -41,7 +41,7 @@
 | 阶段 | 名额 | 资源 | 门槛 |
 |------|------|------|------|
 | [**体验期**](stages/stage-1.md) | 600 人（每批 100） | 1 个月 AI Coding Plan | 提交申请 PR |
-| [**深度资助**](stages/stage-2.md) | ~60 人 | 3 个月 Coding Plan + 云服务器 + $50 API Token | 做出有 50 star 的项目 |
+| [**深度资助**](stages/stage-2.md) | ~60 人 | 3 个月 Coding Plan + 云服务器 + $50 API Token | 50 star 项目 + 人工评审 |
 | [**长期资助**](stages/stage-3.md) | 3-5 人 | 1 年 Coding Plan + $200 API Token | 从第二阶段中选拔 |
 
 面向所有在校大学生，不限专业，不限基础。

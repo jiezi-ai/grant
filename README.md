@@ -82,6 +82,7 @@
 | **政策** | [政策索引](policy/) — 申请资格、资源分配、筛选、诚信、治理 |
 | **规划** | [预算](BUDGET.md) · [时间线](TIMELINE.md) |
 | **记录** | [支出](records/spending.md) · [批次](records/batches.md) · [里程碑](records/milestones.md) · [章程变更](records/changelog.md) |
+| **财务** | [beancount 账本](ledger/) — 复式记账，每一笔资金的来源和去向 |
 
 ## License
 

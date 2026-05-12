@@ -27,15 +27,20 @@ grant/
 │   └── apply-template.md  #   申请文件模板
 ├── students/              # 记录：学生申请（按批次）
 │   └── batch-1/           #   第一批申请
-└── records/               # 记录：项目运营数据
-    ├── spending.md         #   实际支出
+├── records/               # 记录：项目运营数据
+    ├── spending.md         #   实际支出摘要
     ├── batches.md          #   批次状态
     ├── milestones.md       #   里程碑
     └── changelog.md        #   章程变更记录
+└── ledger/                # 财务：beancount 复式记账
+    ├── main.beancount      #   主文件（配置 + include）
+    ├── accounts.beancount  #   账户定义
+    └── 2026.beancount      #   2026 年交易记录
 ```
 
 **政策**（policy/）是所有规则的权威来源。stages/ 和 docs/ 是面向申请者的解读，规则以 policy/ 为准。
 **记录**（students/、records/）是动态数据，随项目推进持续更新。
+**财务**（ledger/）使用 beancount 复式记账，以项目独立实体视角记录所有资金往来。发起人垫付记为应收核销，赞助收入单独追踪。`records/spending.md` 是人类可读的摘要，`ledger/` 是精确账本。
 修改政策/章程需走变更流程（见 [policy/governance.md](policy/governance.md)）。
 
 ## Agent 自动申请流程

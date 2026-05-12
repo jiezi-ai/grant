@@ -4,8 +4,8 @@
 
 ; --- 发起人注资承诺 ---
 
-2026-05-12 * "发起人第一年注资承诺" "预算约 136,000 元"
-  Assets:Receivable:Founder          136,000 CNY
+2026-05-12 * "发起人第一年注资承诺" "含资助预算及运营成本"
+  Assets:Receivable:Founder          150,000 CNY
   Income:Founder:Committed
 
 ; --- 运营支出 ---

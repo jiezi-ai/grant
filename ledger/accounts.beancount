@@ -1,0 +1,47 @@
+; ══════════════════════════════════════
+; 解字计划 — 账户定义
+; 项目以独立实体视角记账
+; ══════════════════════════════════════
+
+; --- 资产 Assets ---
+
+2026-05-12 open Assets:Operating:Alipay          CNY
+2026-05-12 open Assets:Operating:WeChat          CNY
+2026-05-12 open Assets:Operating:BankCard        CNY
+2026-05-12 open Assets:Operating:PayPal          USD
+2026-05-12 open Assets:Receivable:Founder        CNY
+; Assets:Receivable:Sponsorship:* 按需开设
+
+; --- 负债 Liabilities ---
+
+; （当前无负债科目，如需可扩展）
+
+; --- 收入 Income ---
+
+2026-05-12 open Income:Founder:Committed         CNY
+; Income:Sponsorship:*:Committed 按需开设
+
+; --- 费用 Expenses ---
+
+; 第一阶段
+2026-05-12 open Expenses:Grant:Stage1:CodingPlan CNY
+
+; 第二阶段
+2026-05-12 open Expenses:Grant:Stage2:CodingPlan CNY
+2026-05-12 open Expenses:Grant:Stage2:Server     CNY
+2026-05-12 open Expenses:Grant:Stage2:APIToken   CNY,USD
+
+; 第三阶段
+2026-05-12 open Expenses:Grant:Stage3:CodingPlan CNY
+2026-05-12 open Expenses:Grant:Stage3:APIToken   CNY,USD
+
+; 运营
+2026-05-12 open Expenses:Ops:Domain              CNY,USD
+2026-05-12 open Expenses:Ops:Hosting             CNY
+2026-05-12 open Expenses:Ops:Tools               CNY,USD
+2026-05-12 open Expenses:Ops:Marketing           CNY
+2026-05-12 open Expenses:Ops:Other               CNY
+
+; --- 权益 Equity ---
+
+2026-05-12 open Equity:OpeningBalances           CNY,USD

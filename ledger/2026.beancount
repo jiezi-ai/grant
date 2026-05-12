@@ -1,0 +1,15 @@
+; ══════════════════════════════════════
+; 解字计划 — 2026 年交易记录
+; ══════════════════════════════════════
+
+; --- 发起人注资承诺 ---
+
+2026-05-12 * "发起人第一年注资承诺" "预算约 136,000 元"
+  Assets:Receivable:Founder          136,000 CNY
+  Income:Founder:Committed
+
+; --- 运营支出 ---
+
+2026-05-13 * "域名 jiezi.ai" "年付"
+  Expenses:Ops:Domain                185.96 USD @@ 1339 CNY
+  Assets:Receivable:Founder

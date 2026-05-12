@@ -66,4 +66,5 @@
 
 ## 实际支出
 
-详见 [records/spending.md](records/spending.md)。
+- 人类可读摘要：[records/spending.md](records/spending.md)
+- 完整账本（beancount 复式记账）：[ledger/](ledger/)

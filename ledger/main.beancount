@@ -1,0 +1,6 @@
+option "title" "解字计划 / Jiezi Grant"
+option "operating_currency" "CNY"
+option "operating_currency" "USD"
+
+include "accounts.beancount"
+include "2026.beancount"

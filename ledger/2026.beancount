@@ -14,6 +14,12 @@
   Expenses:Ops:Domain                185.96 USD @@ 1339 CNY
   Assets:Receivable:Founder
 
+; --- 赞助收入 ---
+
+2026-05-13 * "敖特_Aute 赞助" "首位赞助方"
+  Assets:Receivable:Sponsorship:Aute   5,000 CNY
+  Income:Sponsorship:Aute:Committed
+
 ; --- 资助支出 ---
 
 2026-05-13 * "第一阶段 Coding Plan #1" "MiniMax Max 套餐 1 个月"

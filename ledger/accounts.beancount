@@ -10,7 +10,7 @@
 2026-05-12 open Assets:Operating:BankCard        CNY
 2026-05-12 open Assets:Operating:PayPal          USD
 2026-05-12 open Assets:Receivable:Founder        CNY
-; Assets:Receivable:Sponsorship:* 按需开设
+2026-05-13 open Assets:Receivable:Sponsorship:Aute CNY
 
 ; --- 负债 Liabilities ---
 
@@ -19,7 +19,7 @@
 ; --- 收入 Income ---
 
 2026-05-12 open Income:Founder:Committed         CNY
-; Income:Sponsorship:*:Committed 按需开设
+2026-05-13 open Income:Sponsorship:Aute:Committed  CNY
 
 ; --- 费用 Expenses ---
 

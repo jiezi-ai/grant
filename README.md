@@ -1,7 +1,5 @@
 # 解字计划 / Jiezi Grant
 
-> **草案阶段** — 所有政策和规则仍在完善中，预计 2026-05-15 正式发布。
-
 ## 解字
 
 公元 100 年，许慎写成《说文解字》，将九千多个汉字逐一拆解到最小的构件——部首。这是人类第一次对语言进行系统性的原子级解析。从此，任何人只要掌握部首，就能理解任何汉字。
@@ -48,7 +46,7 @@
 
 ## 如何申请
 
-**第一阶段申请尚未开放**，正式发布后开放 — [申请指南](docs/apply-guide.md)
+**第一阶段申请已开放** — [申请指南](docs/apply-guide.md)
 
 1. 在 [jiezi.ai/apply](https://jiezi.ai/apply) 填写信息，获取申请码（个人信息不会公开）
 2. 到本仓库 [提交 Issue](https://github.com/jiezi-ai/grant/issues/new?template=apply.yml)，填入申请码

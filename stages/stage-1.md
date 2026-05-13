@@ -8,7 +8,7 @@
 
 支持主流编程工具（Claude Code、Cline、Roo Code 等），让你用 AI 辅助编程、构建项目。
 
-> 当前提供：MiniMax Plus 极速版（M2.7-highspeed，100 TPS 极速推理）。具体供应商可能根据市场情况调整，以确保最优性价比。
+> 当前提供：MiniMax Code Plan（团队版）。你将被加入发起人创建的 MiniMax 团队，直接获得使用权限。具体供应商可能根据市场情况调整，以确保最优性价比。
 
 ## 名额
 

@@ -53,7 +53,7 @@
 1. 在 [jiezi.ai/apply](https://jiezi.ai/apply) 填写信息，获取申请码（个人信息不会公开）
 2. 到本仓库 [提交 Issue](https://github.com/jiezi-ai/grant/issues/new?template=apply.yml)，填入申请码
 3. 查收 edu 邮箱验证邮件，点击验证链接
-4. 添加发起人微信，领取 AI Coding Plan
+4. 添加发起人微信，加入 MiniMax 团队，获得 AI Coding Plan
 
 或者，直接告诉你的 code agent：`我要申请 jiezi-ai/grant`，它会自动完成全部流程。
 

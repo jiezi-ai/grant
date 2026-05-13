@@ -1,0 +1,19 @@
+name: 申请资助
+description: 提交你的申请码，完成解字计划申请
+title: "[申请] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在下方填入你在 [jiezi.ai/apply](https://jiezi.ai/apply) 获取的申请码。
+
+        还没有申请码？请先到 [jiezi.ai/apply](https://jiezi.ai/apply) 填写信息。
+  - type: input
+    id: apply_code
+    attributes:
+      label: 申请码
+      description: 格式为 JZ-XXXX
+      placeholder: JZ-XXXX
+    validations:
+      required: true

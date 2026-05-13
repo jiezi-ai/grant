@@ -13,3 +13,9 @@
 2026-05-13 * "域名 jiezi.ai" "年付"
   Expenses:Ops:Domain                185.96 USD @@ 1339 CNY
   Assets:Receivable:Founder
+
+; --- 资助支出 ---
+
+2026-05-13 * "第一阶段 Coding Plan #1" "MiniMax Max 套餐 1 个月"
+  Expenses:Grant:Stage1:CodingPlan   119 CNY
+  Assets:Receivable:Founder

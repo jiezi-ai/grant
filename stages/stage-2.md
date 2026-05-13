@@ -10,7 +10,7 @@
 | 云服务器 | 1 年 |
 | API Token（$50 额度） | 一次性发放 |
 
-> 当前 Coding Plan 供应商：MiniMax；API Token 供应商：OpenRouter。具体供应商可能调整。
+> 当前 Coding Plan 供应商：MiniMax（团队版）；API Token 供应商：OpenRouter。具体供应商可能调整。
 
 ## 名额
 

@@ -4,13 +4,13 @@
 
 | 资源 | 时长 | 说明 |
 |------|------|------|
-| AI Coding Plan | 1 个月 | 无条件赠送，不要求成果产出 |
+| AI Coding Plan（团队席位） | 1 个月 | 无条件赠送，不要求成果产出 |
 
 ## R2. 第二阶段资源
 
 | 资源 | 时长 | 说明 |
 |------|------|------|
-| AI Coding Plan | 3 个月 | — |
+| AI Coding Plan（团队席位） | 3 个月 | — |
 | 云服务器 | 1 年 | — |
 | API Token | $50 额度 | 一次性发放 |
 
@@ -18,7 +18,7 @@
 
 | 资源 | 时长 | 说明 |
 |------|------|------|
-| AI Coding Plan | 1 年 | — |
+| AI Coding Plan（团队席位） | 1 年 | — |
 | API Token | $200 额度 | 一次性发放 |
 
 ## R4. 发起人资源
@@ -34,8 +34,9 @@
 - 50 star 达标即可获得 1v1，无论是否通过第二阶段评审
 - 宣传不承诺固定频率，由发起人根据项目质量自行判断
 
-## R5. 供应商策略
+## R5. 供应商与分发策略
 
 - 具体供应商根据市场情况选择，以确保最优性价比
-- 当前供应商：Coding Plan — MiniMax；API Token — OpenRouter
+- 当前供应商：Coding Plan — MiniMax（团队版）；API Token — OpenRouter
+- **分发方式**：发起人创建 MiniMax 团队，学生验证通过后以成员身份加入团队，直接获得 Coding Plan 使用权限
 - 供应商变更按章程变更流程处理（见 [governance.md](governance.md)）

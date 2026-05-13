@@ -2,39 +2,39 @@
 
 ## 第一阶段申请流程
 
-### 第 1 步：Star 本仓库
+### 第 1 步：填写申请信息
 
-点击页面右上角的 **Star** 按钮。
+访问 [jiezi.ai/apply](https://jiezi.ai/apply)，填写姓名、学校、专业、年级、edu 邮箱和你想用 AI 做什么。
 
-### 第 2 步：Fork 本仓库
+提交后你会获得一个申请码（格式：`JZ-XXXX`）。你的个人信息安全存储在数据库中，不会公开。
 
-点击页面右上角的 **Fork** 按钮，将仓库复制到你自己的 GitHub 账号下。
+### 第 2 步：提交 GitHub Issue
 
-### 第 3 步：创建你的申请文件
+到 [jiezi-ai/grant](https://github.com/jiezi-ai/grant/issues/new?template=apply.yml) 提交 Issue，在表单中填入你的申请码。
 
-1. 进入你 fork 的仓库
-2. 复制 [`docs/apply-template.md`](apply-template.md) 的内容
-3. 在 `students/batch-1/` 目录下创建新文件，**以你的 GitHub 用户名命名**，如 `students/batch-1/zhangsan.md`
-4. 粘贴模板内容并填写你的信息
+> **提示**：如果你使用 AI 编程工具（Claude Code、Cursor、Cline 等），可以直接告诉它"我要申请 jiezi-ai/grant，我的申请码是 JZ-XXXX"，它会自动完成。
 
-> **提示**：如果你使用 AI 编程工具（Claude Code、Cursor 等），可以直接告诉它"我要申请 jiezi-ai/grant"，它会自动帮你完成所有步骤。
+### 第 3 步：等待审核
 
-### 第 4 步：提交 PR
+系统会自动审核你的申请。审核通过后，验证邮件会发送到你的 edu 邮箱。
 
-1. 提交你的修改（Commit）
-2. 回到 [jiezi-ai/grant](https://github.com/jiezi-ai/grant) 主仓库
-3. 点击 **New Pull Request**
-4. 选择你的 fork 分支，提交 PR
+### 第 4 步：验证邮箱
 
-PR 标题格式：`[申请] @你的用户名 - 学校名`
+点击邮件中的验证链接。验证完成后你会看到发起人的微信二维码。
 
-### 第 5 步：等待验证
+### 第 5 步：领取资源
 
-我们会通过你留下的 edu 邮箱联系你，完成学生身份验证后发放资源。
+添加发起人微信，即可领取 AI Coding Plan。
+
+## 查看申请进度
+
+访问 `jiezi.ai/apply?code=你的申请码`，输入 edu 邮箱验证身份后可查看申请状态。
+
+如果申请被驳回，可以在进度页面修改信息后重新提交 Issue。
 
 ## 注意事项
 
 - 每批限 **100 人**，先到先得
-- 请确保 edu 邮箱真实有效，这是我们联系你的唯一方式
-- 一人只能申请一次
-- 当前开放批次见 `students/` 目录下最新的 `batch-N/` 文件夹
+- 请确保 edu 邮箱真实有效
+- 一个邮箱只能申请一次
+- 申请信息在审核通过前可修改，通过后锁定

@@ -40,7 +40,7 @@
 
 | 阶段 | 名额 | 资源 | 门槛 |
 |------|------|------|------|
-| [**体验期**](stages/stage-1.md) | 600 人（每批 100） | 1 个月 AI Coding Plan | 提交申请 PR |
+| [**体验期**](stages/stage-1.md) | 600 人（每批 100） | 1 个月 AI Coding Plan | 网站申请 + GitHub Issue |
 | [**深度资助**](stages/stage-2.md) | ~60 人 | 3 个月 Coding Plan + 云服务器 + $50 API Token | 50 star 项目 + 人工评审 |
 | [**长期资助**](stages/stage-3.md) | 3-5 人 | 1 年 Coding Plan + $200 API Token | 从第二阶段中选拔 |
 
@@ -50,22 +50,12 @@
 
 **第一阶段申请尚未开放**，正式发布后开放 — [申请指南](docs/apply-guide.md)
 
-**让你的 code agent 帮你申请：**
+1. 在 [jiezi.ai/apply](https://jiezi.ai/apply) 填写信息，获取申请码（个人信息不会公开）
+2. 到本仓库 [提交 Issue](https://github.com/jiezi-ai/grant/issues/new?template=apply.yml)，填入申请码
+3. 查收 edu 邮箱验证邮件，点击验证链接
+4. 添加发起人微信，领取 AI Coding Plan
 
-```
-我要申请 jiezi-ai/grant
-```
-
-告诉 Claude Code、Cursor 或 Cline 这句话，agent 会自动完成 Star、Fork、创建申请文件、提交 PR——如果你还不会这么做，没关系，这正是我们想帮你学会的。
-
-**或者手动申请：**
-
-1. Star 本仓库
-2. Fork 本仓库
-3. 在 `students/batch-1/` 下创建 `你的用户名.md`（[模板](docs/apply-template.md)）
-4. 提交 PR
-
-提交后我们会通过你的 edu 邮箱联系你，完成验证后发放资源。
+或者，直接告诉你的 code agent：`我要申请 jiezi-ai/grant`，它会自动完成全部流程。
 
 ## Agent Native
 

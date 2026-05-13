@@ -20,12 +20,11 @@
 ## 申请条件
 
 1. **在校大学生**（本科/硕士/博士，不限专业）
-2. **Star** 本仓库
-3. **Fork** 本仓库，在 `students/` 目录下创建以你 GitHub 用户名命名的 `.md` 文件，按模板填写信息
-4. **提交 PR**
-5. 通过 edu 邮箱验证后，加微信完成确认
+2. 在 [jiezi.ai/apply](https://jiezi.ai/apply) 填写信息，获取申请码
+3. 到本仓库 [提交 Issue](https://github.com/jiezi-ai/grant/issues/new?template=apply.yml)，填入申请码
+4. 通过 edu 邮箱验证后，加微信完成确认
 
-详细操作步骤请看 [申请指南](../docs/apply-guide.md)。
+个人信息通过网站提交，不会出现在公开的 Issue 中。详细操作步骤请看 [申请指南](../docs/apply-guide.md)。
 
 ## 说明
 

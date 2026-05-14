@@ -38,9 +38,9 @@
 
 | 阶段 | 名额 | 资源 | 门槛 |
 |------|------|------|------|
-| [**体验期**](stages/stage-1.md) | 600 人（每批 100） | 1 个月 AI Coding Plan | 网站申请 + GitHub Issue |
-| [**深度资助**](stages/stage-2.md) | ~60 人 | 3 个月 Coding Plan + 云服务器 + $50 API Token | 50 star 项目 + 人工评审 |
-| [**长期资助**](stages/stage-3.md) | 3-5 人 | 1 年 Coding Plan + $200 API Token | 从第二阶段中选拔 |
+| [**体验期**](stages/stage-1.md) | 600 人（每批 100） | $20 API Token | 网站申请 + GitHub Issue |
+| [**深度资助**](stages/stage-2.md) | ~60 人 | $100 API Token + 云服务器 | 50 star 项目 + 人工评审 |
+| [**长期资助**](stages/stage-3.md) | 3-5 人 | $400 API Token | 从第二阶段中选拔 |
 
 面向所有在校大学生，不限专业，不限基础。
 
@@ -51,7 +51,7 @@
 1. 在 [jiezi.ai/apply](https://jiezi.ai/apply) 填写信息，获取申请码（个人信息不会公开）
 2. 到本仓库 [提交 Issue](https://github.com/jiezi-ai/grant/issues/new?template=apply.yml)，填入申请码
 3. 查收 edu 邮箱验证邮件，点击验证链接
-4. 添加发起人微信，加入 MiniMax 团队，获得 AI Coding Plan
+4. 查收邮箱中的 API Token 配置信息，扫码加入交流群
 
 或者，直接告诉你的 code agent：`我要申请 jiezi-ai/grant`，它会自动完成全部流程。
 

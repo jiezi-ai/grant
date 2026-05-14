@@ -4,13 +4,12 @@
 
 ## 你会得到
 
-| 资源 | 时长 |
+| 资源 | 额度 |
 |------|------|
-| AI Coding Plan | 3 个月 |
+| API Token | $100 额度 |
 | 云服务器 | 1 年 |
-| API Token（$50 额度） | 一次性发放 |
 
-> 当前 Coding Plan 供应商：MiniMax（团队版）；API Token 供应商：OpenRouter。具体供应商可能调整。
+> 当前 API Token 供应商：New API（后端走 OpenRouter）。具体供应商可能调整。
 
 ## 名额
 

@@ -58,7 +58,7 @@ webhook 触发 → 提取申请码 → 匹配数据库 → LLM 审核
     ↓
 学生点击验证链接 → 自动打 verified label → 自动关闭 Issue
     ↓
-学生添加发起人微信 → 加入 MiniMax 团队 → 获得 AI Coding Plan
+系统自动创建 API 账号 → 配置邮件发送到 edu 邮箱
 ```
 
 个人信息存储在数据库中，Issue 里只有申请码，不暴露隐私。

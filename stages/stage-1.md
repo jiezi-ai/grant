@@ -4,11 +4,11 @@
 
 ## 你会得到
 
-**API Token** — $20 额度
+**API Token** — $20 额度，有效期 1 个月
 
 支持主流编程工具（Claude Code、Cline、Roo Code 等），让你用 AI 辅助编程、构建项目。
 
-> 当前提供：$20 API Token，支持 20+ 主流模型（Claude、Gemini、GPT、DeepSeek、MiniMax、GLM 等）。验证通过后自动发放到邮箱。
+> 当前提供：$20 API Token，支持 20+ 主流模型（Claude、Gemini、GPT、DeepSeek、MiniMax、GLM 等）。验证通过后自动发放到邮箱。额度有效期 1 个月，到期未用完的部分自动回收。
 
 ## 名额
 

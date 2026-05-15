@@ -55,6 +55,27 @@
 
 或者，直接告诉你的 code agent：`我要申请 jiezi-ai/grant`，它会自动完成全部流程。
 
+## 为什么这样设计
+
+**为什么要在 GitHub 提交 Issue？**
+
+不只是身份验证。GitHub 是全球最大的开源社区，上面有数以百万计的免费开源项目，覆盖你能想到的几乎所有需求：
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)（143k ⭐）— 下载几乎所有视频网站的视频
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)（230k ⭐）— 上千个可以自己部署的免费服务
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg)（49k ⭐）— 处理几乎所有音视频格式
+- 还有无数的 [awesome lists](https://github.com/sindresorhus/awesome)，覆盖每一个你感兴趣的领域
+
+过去，这些项目对大多数人来说门槛太高——光是环境配置和命令行操作就能把人挡在门外。但现在有了 AI coding agent，你只需要告诉它你想做什么，它就能帮你找到合适的开源项目、安装、配置、使用。人类几十年积累的开源成果，真正对每个人打开了大门。
+
+提一个 Issue，可能是你第一次使用 GitHub。但这不是终点——这里有整个开源世界在等你探索。
+
+**其他设计选择：**
+
+- **edu 邮箱验证** — 确保资源到达真正的在校学生
+- **AI 自动审核** — 提交后几秒内出结果，不需要等人
+- **额度有时效** — 用不完的额度回收给更多同学，让有限的资金帮到更多人
+
 ## Agent Native
 
 本仓库以 agent-native 的方式构建——它不只是资助计划的载体，也是一个实践范本：如何用 AI agent 运营项目，如何构建 agent 可以直接理解和操作的仓库。
